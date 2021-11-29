@@ -1,0 +1,103 @@
+body{
+    background-image: linear-gradient(to right,yellow 0%,pink 50%,aqua 100%);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+}
+
+center{
+margin-top: -580px;
+}
+
+.dec{
+margin-left: 1050px;
+margin-top: 150px;
+}
+
+.dec2{
+margin-top: -450px;
+margin-left: 20px;
+}
+
+#two{
+background: white;
+border-color: orange !important;
+width: 20%;
+font-size: 17px !important;
+border-radius: 25px !important;
+margin-top: 10px;
+color:orange !important;
+font-weight: bolder;
+}
+
+#two:hover{
+background-color: orange !important;
+color: white !important;
+}
+
+#one{
+background: white;
+border-color: crimson !important;
+width: 20%;
+font-size: 17px !important;
+border-radius: 25px !important;
+margin-top: 10px;
+color:crimson !important;
+font-weight: bolder;
+}
+    
+#one:hover{
+background-color: crimson !important;
+color: white !important;
+}
+
+#three{
+background: white;
+border-color: yellow !important;
+width: 20%;
+font-size: 17px !important;
+border-radius: 25px !important;
+margin-top: 10px;
+color:#79790a8c !important;
+font-weight: bolder;
+}
+    
+#three:hover{
+background-color: yellow !important;
+color: black !important;
+}
+
+#four{
+background: white;
+border-color: green !important;
+width: 20%;
+font-size: 17px !important;
+border-radius: 25px !important;
+margin-top: 10px;
+color:green !important;
+font-weight: bolder;
+}
+    
+#four:hover{
+background-color: green !important;
+color: white !important;
+}
+
+#five{
+background: white;
+border-color: #008cffa2 !important;
+width: 20%;
+font-size: 17px !important;
+border-radius: 25px !important;
+margin-top: 10px;
+color:#008cffa2 !important;
+font-weight: bolder;
+}
+        
+#five:hover{
+background-color: #008cffa2 !important;
+color: white !important;
+}
+
+h2{
+margin-top: 150px;
+}
